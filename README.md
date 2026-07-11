@@ -73,5 +73,6 @@ By monitoring sales trends and KPIs, businesses can identify profitable products
 📦 **Optimize Inventory Management** → Use monthly sales trends to maintain optimal stock levels and reduce overstock or shortages.
 
 🌍 **Expand High-Sales Regions** → Invest more in regions with consistently strong sales while improving marketing strategies in lower-performing areas.
-# 📷 Dashboard Preview
 
+# 📷 Dashboard Preview
+https://github.com/NitikaArora98/Sales-Analysis-Dasboard/blob/main/Screenshot%20(80).png
